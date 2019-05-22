@@ -1,0 +1,25 @@
+{
+  "name": "gulp-podstawowy1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Siek",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.5",
+    "git": "^0.1.5",
+    "gulp-autoprefixer": "^6.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemap": "^1.0.1"
+  }
+}
